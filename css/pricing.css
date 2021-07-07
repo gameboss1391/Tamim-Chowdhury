@@ -1,0 +1,93 @@
+
+
+.page-title-p{
+  font-size: 40px;
+  padding: 20px;
+  text-align: center;
+  font-weight: 500;}
+
+.price{
+  background: #f90D53;
+  color: #ffffff;
+  border-radius: 10px;
+  margin: 30px 0 0 0;
+  padding: 20px 0 20px 0;
+  box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2);
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.price ul{
+  list-style: none;
+  margin: 0;
+  padding: 0 0 50px 0;
+
+}
+
+.price h5{
+  text-align: center;
+  padding-top: 50px;
+}
+
+.price h1{
+  text-align: center;
+}
+
+.price li{
+  text-align: center;
+  margin: 0;
+ padding: 5px; 
+}
+
+.price:hover{
+  padding-top: 40px;
+}
+
+.table-col{
+  padding: 0;
+  margin: 0;
+}
+
+.featured{
+  background: #ffffff;
+  color: #f90D53;
+  margin: 0;
+  box-shadow: 0 4px 8px o rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.featured ul{
+  padding: 0 0 100px 0;
+}
+
+.btn.order-btn{
+  color: #fff;
+  width: 50%;
+  border-radius: 0;
+  border: 1px solid #fff;
+}
+
+.order-btn-featured{
+  color: #f90D53;
+  width: 50%;
+  border-radius: 0;
+  border: 1px solid #f90D53;
+}
+
+.btn-tpt{
+  color: white;
+  background-color: rgb(255, 77, 77);
+  border: 0;
+  border-radius: 40px;
+  text-transform: uppercase;
+  outline: none;
+}
+
+.card3 .fa-check{
+  color: green;
+  margin-right: 10px;
+}
+
+.card3 .fa-times{
+  color: red;
+  margin-right: 10px;
+}
+
