@@ -25,7 +25,6 @@ ul{
 .pricing{
     min-height: 100vh;
     padding-top: 100px;
-    background-color: #292727;
     font-family: 'Poppins', sans-serif;
     --color-1:#5b58e8;
     --color-2:#ffc600;
@@ -147,3 +146,32 @@ pricing .pricing-table-body ul li:last-child{
     box-shadow: 0 0 15px rgba(0,0,0,0,3);
 }
 
+.ul-4{
+    line-height: 2.9;
+}
+
+.pp-5{
+    font-size: 17px;
+    margin-top: 23px;
+    margin-left: 7px;
+}
+
+.pp-4{
+    font-size: 40px;
+    color: #0A7BFA;
+}
+
+.header-4{
+    background-color: #0A7BFA;
+    border-radius: 5px;
+    color: #fff;
+    padding: 8px;
+    margin-left: 25%;
+    margin-right: 25%;
+    border: 5px;
+    
+}
+
+.price-4{
+    justify-content: center;
+}
